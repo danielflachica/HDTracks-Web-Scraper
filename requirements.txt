@@ -1,0 +1,9 @@
+webdriver-manager
+selenium
+bs4
+pandas
+csv
+os
+time
+json
+urllib
